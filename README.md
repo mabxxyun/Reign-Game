@@ -1,4 +1,4 @@
-# Regin-Game
+# Reign-Game
 Computer Programming project in C++
 
 這是一款經營養成遊戲，玩家扮演中國皇帝的角色，在遊戲中會面臨到許多需要作出抉擇的時候，而你的每個選擇皆會導致國家有不同的結局。
