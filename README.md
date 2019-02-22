@@ -7,4 +7,4 @@ Computer Programming project in C++
  
 每個選則用數字鍵（1、2、3）回答並按ENTER送出即可。
   
-壓縮檔中含有執行檔及網頁介紹遊戲操作。
+壓縮檔中含有執行檔。
